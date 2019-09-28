@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sonali's Personal Site</title>
+  </head>
+  <body>
+    <form class="" action="mail-list.html" method="post">
+      <label>Your Name:</label>
+      <input type="text" name="" value="">
+      <br>
+      <input type="submit" name="">
+    </form>
+
+  </body>
+</html>
